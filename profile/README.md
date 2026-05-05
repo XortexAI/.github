@@ -28,3 +28,14 @@ Xmem is built as a modular ecosystem, with each repository serving a specific ro
 
 - **Xmem Extension**  
   A Chrome extension built on top of the SDK, bringing Xmem’s memory capabilities directly into the browser.
+
+
+
+## 🌟 Contributing
+
+Xmem is building what we believe is the **next fundamental layer in AI memory**. If compute and models defined the last wave, persistent, intelligent memory will define the next.
+We’re opening this up to builders, researchers, and hackers who want to shape that future with us.
+
+**We reward API credits (Claude, Gemini, ChatGPT, Grok) as bounties based on meaningful contributions.**
+
+Whether you're improving core architecture, building new integrations, enhancing the SDK, or experimenting with novel memory use cases we welcome all contributors to come and grow this ecosystem together.
