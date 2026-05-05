@@ -1,5 +1,3 @@
-## 👋 Welcome
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/94da44de-986d-4cdd-8950-49e0d00ca62b" alt="Xmem Logo" width="320" />
 </p>
