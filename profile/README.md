@@ -14,21 +14,20 @@
 
 Xmem is built as a modular ecosystem, with each repository serving a specific role in the stack:
 
-- **Xmem**  
+- **[Xmem](https://github.com/XortexAI/xmem)**  
   The core architecture and backend powering the system, including memory infrastructure, retrieval logic, and benchmark implementations.
 
-- **Xmem Landing**  
+- **[Xmem Landing](https://github.com/XortexAI/xmem-landing)**  
   The main frontend repository, deployed at [www.xmem.in](https://www.xmem.in), featuring user-facing experiences like `/context` and `/scanner`.
 
-- **Xmem MCP**  
+- **[Xmem MCP](https://github.com/XortexAI/xmem-mcp)**  
   The primary MCP (Model Context Protocol) implementation for Xmem, built on top of the SDK to enable seamless integration with agents.
 
-- **Xmem SDK**  
+- **[Xmem SDK](https://github.com/XortexAI/xmem-sdk)**  
   Multi-language SDK available in **Python, Go, and TypeScript** (latest). Install via npm: `npm i xmem-ai`.
 
-- **Xmem Extension**  
+- **[Xmem Extension](https://github.com/XortexAI/xmem-extension)**  
   A Chrome extension built on top of the SDK, bringing Xmem’s memory capabilities directly into the browser.
-
 
 
 ## 🌟 Contributing
